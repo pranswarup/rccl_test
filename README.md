@@ -1,6 +1,6 @@
 # RCCL Test Example
 
-This is a simple CUDA program that demonstrates the use of RCCL (ROCm Collective Communications Library) for multi-GPU collective operations.
+This is a simple program that demonstrates the use of RCCL (ROCm Collective Communications Library) for multi-GPU collective operations.
 
 ## Overview
 
